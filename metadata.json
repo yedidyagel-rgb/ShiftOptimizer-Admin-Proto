@@ -1,0 +1,6 @@
+{
+  "name": "ShiftOptimizer",
+  "description": "Manager Dashboard prototype for the ShiftOptimizer shift scheduling system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
